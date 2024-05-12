@@ -16,7 +16,7 @@
       "url": "heroku/python"
     }
   ],
-  "repository": "https://github.com/doraemon890/ANNIE-X-CHATBOT",
+  "repository": "https://github.com/Sumankumar81547/NEHA-X-CHATBOT",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",
@@ -41,7 +41,7 @@
     "OWNER_USERNAME": {
       "description": "Username of the bot owner",
       "required": true,
-      "value": "JARVIS_V2"
+      "value": "NeHa_942"
     },
     "GPT_API": {
       "description": "Your GPT API Key from OpenAI.",
@@ -51,12 +51,12 @@
     "SUPPORT_GROUP": {
       "description": "Name of the support group",
       "required": true,
-      "value": "Dora_Hub"
+      "value": "R_I_S_I_NG"
     },
     "UPDATE_CHANNEL": {
       "description": "Name of the update channel",
       "required": true,
-      "value": "JARVIS_V_SUPPORT"
+      "value": "pikachu_world"
     }
   }
 }
